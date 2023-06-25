@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Absis98/static/css/main.e0c5ff92.css",
+    "main.js": "/Absis98/static/js/main.cb492174.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Absis98/static/js/787.1ed0c42c.chunk.js",
+    "static/media/profileImage.jpeg": "/Absis98/static/media/profileImage.640082a412b718a00e21.jpeg",
+    "static/media/common-bg.svg": "/Absis98/static/media/common-bg.9878fdbb0d963009b072.svg",
+    "static/media/logo.svg": "/Absis98/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/linkedin-black.svg": "/Absis98/static/media/linkedin-black.2eda7bddaacee15c44494bb63ca94165.svg",
+    "static/media/linkedin.svg": "/Absis98/static/media/linkedin.28a7bd20cd9101be0d0e1ed077c2c2f2.svg",
+    "index.html": "/Absis98/index.html",
+    "main.e0c5ff92.css.map": "/Absis98/static/css/main.e0c5ff92.css.map",
+    "main.cb492174.js.map": "/Absis98/static/js/main.cb492174.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Absis98/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0c5ff92.css",
+    "static/js/main.cb492174.js"
+  ]
+}
