@@ -1,7 +1,7 @@
 import '../../App.css';
 
 function NavigationActions() {
-    const navigationItems = ['Home', 'About', 'Project', 'Contact']
+    const navigationItems = ['Home', 'About', 'Contact']
 
     const navigateToSection = (section) => {
         Window.document.getElementById(section).scrollIntoView();
