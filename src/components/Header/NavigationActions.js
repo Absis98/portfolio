@@ -7,7 +7,7 @@ function NavigationActions() {
         Window.document.getElementById(section).scrollIntoView();
     }
     return (
-        <div className="d-flex me-4">
+        <div className="me-4 navigation-action">
             { navigationItems.map((item) => {
                 return (
                     <a className="mx-4 header_action d-flex align-self-center" href={`./#${item}`}> {item} </a>

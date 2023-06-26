@@ -105,12 +105,22 @@ body {
 .name-intro {
   color: #111;
   letter-spacing: 3px;
-  font-size: 4rem;
+  font-size: 2rem;
+}
+
+.navigation-action {
+  display: flex;
+}
+
+@media screen and (max-width: 550px) {
+  .navigation-action  {
+    display: none;
+  }
 }
 
 .intro-details {
   color: #666;
-  font-size: 2rem;
+  font-size: 1.2rem;
 }
 
 .left-icons {
