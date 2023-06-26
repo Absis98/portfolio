@@ -89,7 +89,7 @@ body {
   background-color: bisque;
   padding-top: 5vh;
   min-height: 40rem;
-  background: linear-gradient(to right,rgba(245,245,245,.8),rgba(245,245,245,.8)),url(./media/images/common-bg.svg);
+  background: url(./media/images/common-bg.svg);
   background-position: center;
 }
 
@@ -184,7 +184,7 @@ body {
 }
 
 .contact {
-  background: linear-gradient(to right,rgba(245,245,245,.8),rgba(245,245,245,.8)),url(./media/images/common-bg.svg);
+  background:url(./media/images/common-bg.svg);
   height: fit-content;
   background-color: azure;
   padding-bottom: 4rem;
