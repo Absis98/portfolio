@@ -105,7 +105,7 @@ body {
 .name-intro {
   color: #111;
   letter-spacing: 3px;
-  font-size: 2rem;
+  font-size: 4rem;
 }
 
 .navigation-action {
@@ -115,6 +115,14 @@ body {
 @media screen and (max-width: 550px) {
   .navigation-action  {
     display: none;
+  }
+
+  .name-intro {
+    font-size: 2rem;
+  }
+
+  .intro-details {
+    font-size: 2rem;
   }
 }
 
